@@ -1,20 +1,33 @@
 #Example lists
-print =['red','orange','blue','voilet','indig']
+color =['red','orange','blue','voilet','indig']
 
 #EXample strings
-print = ["hello"]
+precious = "hello"
 
 #Example stings
-print = ["i love you"]
+Eso = "i love you"
 
 #Example Diction
-print = {"USA":"Washington D.C.", "France":"Paris", "India":"New Delhi"}
+Alex = {"USA":"Washington D.C.", "France":"Paris", "India":"New Delhi"}
   
   #Example TUPLE
-print = [1, 2,6,9,8 ]
+best = (1, 2,6,9,8 )
 
 # EXample integars
-print = ((100))
+#uc = 100
 
 #float to integars 
-print = ((2.3))
+#EE = 2.3
+
+#create ekene best to EKENE BEST
+
+#Best = input('enter the names:')
+#a = b.upper()
+#print(a)
+#using dictionary, list and for loop prepare an exam 
+#for some students
+#and at the end give a result of 
+#their total score and the answers to the ones that they
+
+
+
